@@ -17,6 +17,19 @@ We work toward general-purpose embodied intelligence — bridging perception and
 
 Coming soon.
 
+## Members
+
+**PhD students**
+
+- [Daniel Feng](https://defisch.github.io/) — UC Irvine
+- [Dwip Dalal](https://dwipddalal.github.io/) — UIUC
+- [Sagar Patil](https://basavasagarkp.github.io/) — UC Irvine
+- [Yuchen Song](https://yuchen-song.github.io/) — UC Irvine
+
+**Masters students**
+
+- [Aditya Mittal](https://adityamittal03.github.io/) — UC Irvine
+
 ## Links
 
 - 🌐 PI website — [unnat.github.io](https://unnat.github.io/)
