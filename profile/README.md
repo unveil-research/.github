@@ -15,10 +15,7 @@ We work toward general-purpose embodied intelligence — bridging perception and
 
 ## Recent work
 
-- **ViPRA** — Video Prediction for Robotic Action *(ICLR 2026)*
-- **RigVid** — Robotic manipulation via generated video imitation *(ICLR 2026)*
-- **Attwarp** — Attention-aware image processing for multimodal LLMs *(ICLR 2026)*
-- **CRAFT** — Tendon-driven robotic hands with hybrid compliance
+Coming soon.
 
 ## Links
 
