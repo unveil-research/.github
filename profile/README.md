@@ -6,12 +6,12 @@ We work toward general-purpose embodied intelligence — bridging perception and
 
 ## Research
 
-- **Robot learning & manipulation** — learning policies from human videos, generated videos, and real-world interaction
+- **Robot learning & manipulation** — policy learning from diverse data sources
 - **Vision-language-action models** — connecting multimodal perception to embodied control
 - **Sim-to-real transfer** — closing the gap between simulated training and physical deployment
-- **Multi-agent collaboration** — coordination and emergent behavior across embodied agents
-- **Audio-visual navigation** — perception beyond vision alone
-- **Robot hardware** — tendon-driven hands and compliant manipulators
+- **Multi-agent collaboration** — coordination across embodied agents
+- **Multimodal perception** — vision, language, and beyond
+- **Robot hardware** — dexterous and compliant manipulation
 
 ## Recent work
 
