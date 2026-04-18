@@ -14,6 +14,10 @@ Coming soon.
 
 ## Members
 
+**Principal Investigator**
+
+- [Unnat Jain](https://unnat.github.io/) — UC Irvine
+
 **PhD students**
 
 - [Daniel Feng](https://defisch.github.io/) — UC Irvine
@@ -24,12 +28,6 @@ Coming soon.
 **Masters students**
 
 - [Aditya Mittal](https://adityamittal03.github.io/) — UC Irvine
-
-## Links
-
-- 🌐 PI website — [unnat.github.io](https://unnat.github.io/)
-- 🎓 UCI profile — [ics.uci.edu/people/unnat-jain](https://ics.uci.edu/people/unnat-jain/)
-- 🏛️ UC Irvine, Donald Bren School of Information & Computer Sciences
 
 ## Joining us
 
